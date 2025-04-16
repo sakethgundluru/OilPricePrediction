@@ -1,6 +1,6 @@
 
 # Forecasting Crude Oil prices.
-[WebApp](https://suraj4502-forecasting-project.streamlit.app/)
+[WebApp](https://oil-price-prediction-sakethgundluru.streamlit.app/)
 
 
 ### Aim: <br>
@@ -18,7 +18,7 @@ Here are some key points about the project:
 
 ---
  Developed and Deployed a web app that analyzes past data and Future forecasted values of crude oil using Machine Learning models.
- Check out the app here: https://suraj4502-forecasting-project.streamlit.app/
+ Check out the app here: (https://oil-price-prediction-sakethgundluru.streamlit.app/)/
  
 ---
 ### Results :
