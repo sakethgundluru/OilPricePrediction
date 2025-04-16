@@ -1,0 +1,21 @@
+§
+    –¡d.  ã                   ó   — d dl Zd„ Zd„ ZdS )é    Nc                 ó~  — t          j        | d¬¦  «        }|j        dd …         }|                     dddœ¬ ¦  «        }t          j        |d         ¦  «        |d<   t          j        |d         ¦  «        |d<   |j        j                              d¦  «        |d	<   |j        j                              d
+¦  «        |d
+<   |S )NúData 1©Ú
+sheet_nameé   ÚDateÚPrice©zBack to Contentsz8Data 1: Europe Brent Spot Price FOB (Dollars per Barrel)©Ú columnsz%YÚYearsz%BÚMonths)	ÚpdÚ
+read_excelÚlocÚrenameÚ
+to_datetimeÚ
+to_numericr   ÚdtÚstrftime©Ú	file_pathÚdfs     úDC:\Users\91775\DATA SCIENCE\projects\Forecasting_crude_oil\helper.pyÚdata_preprocessorr      sª   € Ý	
+Œy¨XÐ	6Ñ	6Ô	6€BØ	
+ŒŒ€BØ 	‡y‚y¨VÐovÐwÐw€yÑ xÔ x€BÝ”˜r &œzÑ*Ô*€B€vJÝ”˜r 'œ{Ñ+Ô+€B€wKØ””×$Ò$ TÑ*Ô*€B€wKØ”'”*×%Ò% dÑ+Ô+€B€xLØ
+
+€Ió    c                 óö   — t          j        | d¬¦  «        }|j        dd …         }|                     dddœ¬ ¦  «        }t          j        |d         ¦  «        |d<   t          j        |d         ¦  «        |d<   |S )Nr   r   r    ÚdsÚyr
+   r
+   )r   r   r   r   r   r   r   s     r   Úprophet_data_processorr       st   € Ý	
+Œy¨XÐ	6Ñ	6Ô	6€BØ	
+ŒŒ€BØ 	‡y‚y¨TÐmpÐqÐq€yÑ rÔ r€BÝŒn˜R œXÑ&Ô&€B€tHÝ
+Œ]˜2˜cœ7Ñ
+#Ô
+#€B€sGØ
+
+€Ir   )Úpandasr   r   r    © r   r   ú<module>r#      s9   ðØ Ð Ð Ð ðð ð ðð ð ð ð r   
